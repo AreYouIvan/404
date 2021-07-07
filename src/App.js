@@ -8,6 +8,7 @@ import logo from "./assets/Scarecrow.png"
 function App() {
   return (
     <div className="App">
+
       <div className="image">
         <Image src={logo} />
       </div>
